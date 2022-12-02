@@ -1,0 +1,21 @@
+{
+  "name": "Levampipre",
+  "displayName": "ButterTheme",
+  "description": "Elegant,Comfy and Modern theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ButterTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ButterTheme-color-theme.json"
+      }
+    ]
+  }
+}
