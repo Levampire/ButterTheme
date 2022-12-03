@@ -1,5 +1,5 @@
 {
-  "name": "Levampire",
+  "name": "Buttur",
   "displayName": "ButterTheme",
   "description": "🚀 Elegant,Comfy and Modern theme for VSCode.",
   "version": "0.0.1",
@@ -22,5 +22,5 @@
     "type": "git",
     "url": "https://github.com/Levampire/ButterTheme"
   },
-  "icon": ".pic/butter.png"
+  "icon": ".github/Butter.png"
 }

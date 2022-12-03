@@ -7,7 +7,7 @@
  * @Description: 这是默认设置,请设置
 -->
 ## ButterTheme for Visual Studio Code
-<center> <img src = "./pic/Butter.png"></center>
+<center> <img src = ".github/Butter.png"></center>
 <center><H1> Butter Dark Theme<H1></center>
 
 > ButterTheme, A Visual Studio Code dark theme plug-in.
@@ -18,16 +18,16 @@ Install from marketplace
 
 HTML Style
 
-![HTML Style](./pic/html.png)
+![HTML Style](.github/html.png)
 CSS Style
 
-![CSS Style](./pic/css.png)
+![CSS Style](.github/css.png)
 JS Style
 
-![JS Style](./pic/js.png)
+![JS Style](.github/js.png)
 Json Style
 
-![JSON Style](./pic/json.png)
+![JSON Style](.github/json.png)
 
 ## Change Fonts
 
