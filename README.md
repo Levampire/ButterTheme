@@ -3,21 +3,46 @@
  * @Date: 2022-12-01 12:49:55
  * @LastEditors: Levampire 2867166044@qq.com
  * @LastEditTime: 2022-12-02 17:31:05
- * @FilePath: \Levampipre\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: \Levampire\README.md
+ * @Description: 这是默认设置,请设置
 -->
+## ButterTheme for Visual Studio Code
+<center> <img src = "./pic/Butter.png"></center>
+<center><H1> Butter Dark Theme<H1></center>
 
-## Working with Markdown
+> ButterTheme, A Visual Studio Code dark theme plug-in.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Install from marketplace 
 
-## For more information
+HTML Style
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![HTML Style](./pic/html.png)
+CSS Style
+
+![CSS Style](./pic/css.png)
+JS Style
+
+![JS Style](./pic/js.png)
+Json Style
+
+![JSON Style](./pic/json.png)
+
+## Change Fonts
+
+Change fonts to fix windows default font (Microsoft Yahei) rendering burr.
+
+* open setting.json
+* add config code
+* DownLoad JetBrains Mono form [OfficeWebsite](https://www.jetbrains.com/lp/mono/)
+
+```json
+ {
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.6,
+ }
+```
 
 **Enjoy!**

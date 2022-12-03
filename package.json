@@ -1,7 +1,7 @@
 {
-  "name": "Levampipre",
+  "name": "Levampire",
   "displayName": "ButterTheme",
-  "description": "Elegant,Comfy and Modern theme for VSCode.",
+  "description": "🚀 Elegant,Comfy and Modern theme for VSCode.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
@@ -17,5 +17,10 @@
         "path": "./themes/ButterTheme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Levampire/ButterTheme"
+  },
+  "icon": ".pic/butter.png"
 }

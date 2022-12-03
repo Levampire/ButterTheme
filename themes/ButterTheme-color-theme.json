@@ -208,7 +208,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#7eccf4"
 			}
 		},
 		{
@@ -295,6 +295,15 @@
 			}
 		},
 		{
+			"name": "Block Level Variables",
+			"scope": [
+				"meta.block variable.other.object"
+			],
+			"settings": {
+				"foreground": "#5ed1cb"
+			}
+		},
+		{
 			"name": "Other Variable, String Link",
 			"scope": [
 				"support.other.variable",
@@ -317,7 +326,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FEBAAD"
+				"foreground": "#f4cec1"
 			}
 		},
 		{
@@ -405,6 +414,14 @@
 				"entity.name.module.js",
 				"variable.import.parameter.js",
 				"variable.other.class.js",
+				"variable.parameter",
+			],
+			"settings": {
+				"foreground": "#FAFAFA"
+			}
+		},
+		{
+			"scope": [
 				"variable.parameter",
 			],
 			"settings": {

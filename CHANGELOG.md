@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "Levampipre" extension will be documented in this file.
+## [SUP] - 2022-12-03
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Changed
 
-## [Unreleased]
-
-- Initial release
+- SUP Theme
